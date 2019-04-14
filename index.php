@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "RCB won first match after 7 loss!";
 ?>
 
 </body>
